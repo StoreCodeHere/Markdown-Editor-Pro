@@ -1,11 +1,4 @@
-
-## 📘 Number System Converter — CS Bases
-
-A simple web-based tool to convert numbers between different bases (Binary, Decimal, Octal, Hexadecimal). Hosted via GitHub Pages.
-
----
-
-### 🚀 Deployment Instructions
+## 🚀 Deployment Instructions
 
 This project is deployed using **GitHub Pages** from the `main` branch.
 
@@ -41,6 +34,6 @@ This project is deployed using **GitHub Pages** from the `main` branch.
 ---
 
 ### 🌐 Live Site
-[Visit the Website](https://storecodehere.github.io/Number-System-CS/)  
+[Visit the Website](https://storecodehere.github.io/Markdown-Editor-Pro/)  
 Hosted via GitHub Pages from the `main` branch.
 
